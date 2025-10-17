@@ -1,0 +1,149 @@
+
+.body{
+    background-color: rgb(0, 0, 0);
+}
+h1,h2,h3,h4,h5 {
+    margin: 0;
+}
+
+*{
+    box-sizing: border-box;
+}
+.conteiner{
+    height: 500px;
+    width: 100%;
+    margin: auto;
+    padding: 20px;
+    background-color: rgb(0, 0, 0);
+}
+.title{
+     font-size: 25px;
+     color: aliceblue;
+     text-align: center;
+    margin-bottom: 15px;
+}
+.form-input{
+    width: 100%;
+    
+    padding: 14px;
+    margin-bottom: 11px;
+    font-size: 15px;
+    border-radius: 15px;
+    background-color: #756f6f;
+}
+.btn-flex{
+    display: flex;
+    justify-content: center;
+    gap: 3px;
+}  
+.btn{
+    width: 30%;
+padding: 7px;
+margin-bottom: 7px;
+border-radius: 7px;
+color: #fff;
+font-size: 9px;
+cursor: pointer;
+}
+.btn-plus{
+    background-color:  rgb(255, 144, 40);
+    text-align: center;
+    justify-content: center;
+    width: 120px;
+    font-size:20px;
+    border-radius: 15px;
+}
+.btn-minus{
+    background-color:  rgb(255, 144, 40);
+    width: 120px;
+    border-radius: 15px;
+    font-size: 20px;
+
+}
+ .btn-multiple{
+   background-color:  rgb(255, 144, 40);
+    text-align: center;
+    justify-content: center;
+    width: 120px;
+    font-size:20px;
+    border-radius: 15px; 
+ }
+ .btn-divide{
+    background-color:  rgb(255, 144, 40);
+    text-align: center;
+    justify-content: center;
+    width: 120px;
+    font-size:20px;
+    border-radius: 15px;
+ }
+
+.btn-submit{
+    background-color: #756f6f;
+    width: 269px;
+    height: 40px;
+    justify-content: center;
+    font-size: 18px;
+    border-radius: 15px;
+   
+}
+.text-result{
+    background-color: #756f6f;
+    height: 65px;
+    text-align: center;
+    border-radius: 10px;
+    font-size: 20px;
+}
+.submit-flex{
+     display: flex;
+    justify-content: center;
+    gap: 3px;
+}
+.btnn-flex{
+    display: flex;
+    justify-content: center;
+    gap: 3px;
+}
+.btn-multiple{
+    background-color:  rgb(255, 144, 40);
+    text-align: center;
+    justify-content: center;
+    width: 120px;
+}
+.btn-divide{
+    background-color:  rgb(255, 144, 40);
+   
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    ;
+    width: 120px;
+}
+
+#out-result{
+    color: #fff;
+}
+.btn{
+    border-radius: 15px;
+}
+
+    
